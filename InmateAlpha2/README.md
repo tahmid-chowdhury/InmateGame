@@ -1,4 +1,4 @@
-# Inmate Game (Beta 2)
+# Inmate Game (Alpha 2)
 Changelog:
 - Day 2/5 complete
 - Gender 'for's and choice 'loop's fixed
